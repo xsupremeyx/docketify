@@ -13,3 +13,9 @@ agent/.venv/
 dist/
 build/
 .DS_Store
+
+# AI / IDE skills and caches
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
